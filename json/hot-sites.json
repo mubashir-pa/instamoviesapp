@@ -1,0 +1,257 @@
+{
+	"Entertainment": {
+		"Z88": {
+			"Icon": "https://i.imgur.com/P1jiJBF.png",
+			"Link": "Link1://https://m.youtube.com/",
+			"Name": "YouTube"
+		},
+		"Z89": {
+			"Icon": "https://i.imgur.com/K1Gab68.png",
+			"Link": "Link1://https://www.hotstar.com/in",
+			"Name": "Hotstar"
+		},
+		"Z90": {
+			"Icon": "https://i.imgur.com/ndh2Lp1.png",
+			"Link": "Link1://https://www.dailymotion.com/",
+			"Name": "Dailymotion"
+		},
+		"Z91": {
+			"Icon": "https://i.imgur.com/xkQ1MiJ.png",
+			"Link": "Link1://https://m.imdb.com/",
+			"Name": "IMDb"
+		},
+		"Z92": {
+			"Icon": "https://i.imgur.com/Z8qyB5m.png",
+			"Link": "Link1://https://www.mxplayer.in/",
+			"Name": "MX Player"
+		},
+		"Z93": {
+			"Icon": "https://i.imgur.com/NZ1bHB4.png",
+			"Link": "Link1://https://gaana.com/",
+			"Name": "Gaana"
+		},
+		"Z94": {
+			"Icon": "https://i.imgur.com/2VFdjCh.png",
+			"Link": "Link1://https://www.zee5.com/",
+			"Name": "Zee5"
+		},
+		"Z95": {
+			"Icon": "https://i.imgur.com/QNq9JN8.png",
+			"Link": "Link1://https://www.hungama.com/",
+			"Name": "Hungama"
+		},
+		"Z96": {
+			"Icon": "https://i.imgur.com/W3ct1K7.png",
+			"Link": "Link1://https://m.twitch.tv/",
+			"Name": "Twitch"
+		},
+		"Z97": {
+			"Icon": "https://i.imgur.com/Vshb1rM.png",
+			"Link": "Link1://https://www.liveme.com/",
+			"Name": "Live.me"
+		},
+		"Z98": {
+			"Icon": "https://i.imgur.com/jfI96iH.png",
+			"Link": "Link1://https://bigo.tv/",
+			"Name": "Bigo Live"
+		},
+		"Z99": {
+			"Icon": "https://i.imgur.com/lhmQqVJ.png",
+			"Link": "Link1://https://www.fandom.com/",
+			"Name": "Fandom"
+		}
+	},
+	"Humor": {
+		"Z93": {
+			"Icon": "https://i.imgur.com/N0VNai1.png",
+			"Link": "Link1://https://giphy.com/",
+			"Name": "Giphy"
+		},
+		"Z94": {
+			"Icon": "https://i.imgur.com/2scnCDA.png",
+			"Link": "Link1://https://9gag.com/",
+			"Name": "9gag"
+		},
+		"Z95": {
+			"Icon": "https://i.imgur.com/nYzUsjs.png",
+			"Link": "Link1://https://www.cheezburger.com/",
+			"Name": "Cheeze Burger"
+		},
+		"Z96": {
+			"Icon": "https://i.imgur.com/eVQDvqO.png",
+			"Link": "Link1://https://theoatmeal.com/",
+			"Name": "The Oat Meal"
+		},
+		"Z97": {
+			"Icon": "https://i.imgur.com/ejxSHH6.png",
+			"Link": "Link1://http://m.quickmeme.com/",
+			"Name": "Quick Meme"
+		},
+		"Z98": {
+			"Icon": "https://i.imgur.com/DPvZw9F.png",
+			"Link": "Link1://https://memecenter.com/",
+			"Name": "Meme Center"
+		},
+		"Z99": {
+			"Icon": "https://i.imgur.com/d5WKEjg.png",
+			"Link": "Link1://https://www.ebaumsworld.com/",
+			"Name": "eBaumsWorld"
+		}
+	},
+	"Media": {
+		"Z91": {
+			"Icon": "https://i.imgur.com/JtOsgo3.png",
+			"Link": "Link1://https://www.indiatoday.in/",
+			"Name": "India Today"
+		},
+		"Z92": {
+			"Icon": "https://i.imgur.com/o5HfQk0.png",
+			"Link": "Link1://https://m.indiatimes.com/",
+			"Name": "India Times"
+		},
+		"Z93": {
+			"Icon": "https://i.imgur.com/szaxHJH.png",
+			"Link": "Link1://https://www.ndtv.com/",
+			"Name": "NDTV"
+		},
+		"Z94": {
+			"Icon": "https://i.imgur.com/M3hpUnq.png",
+			"Link": "Link1://https://m.rediff.com/",
+			"Name": "Rediff"
+		},
+		"Z95": {
+			"Icon": "https://i.imgur.com/NpvTuPl.png",
+			"Link": "Link1://https://www.theverge.com/",
+			"Name": "The Verge"
+		},
+		"Z96": {
+			"Icon": "https://i.imgur.com/vZ5qCRD.png",
+			"Link": "Link1://https://www.buzzfeed.com/",
+			"Name": "BuzzFeed"
+		},
+		"Z97": {
+			"Icon": "https://i.imgur.com/aFSYUbz.png",
+			"Link": "Link1://https://medium.com/",
+			"Name": "Medium"
+		},
+		"Z98": {
+			"Icon": "https://i.imgur.com/fN0OTLs.png",
+			"Link": "Link1://https://www.gadgethacks.com/",
+			"Name": "Gadget Hacks"
+		},
+		"Z99": {
+			"Icon": "https://i.imgur.com/omUxPHT.png",
+			"Link": "Link1://https://m.timesofindia.com/",
+			"Name": "Times of India"
+		}
+	},
+	"Popular": {
+		"Z84": {
+			"Icon": "https://i.imgur.com/iNt4occ.png",
+			"Link": "Link1://https://m.facebook.com/",
+			"Name": "Facebook"
+		},
+		"Z85": {
+			"Icon": "https://i.imgur.com/ZM0HYHm.png",
+			"Link": "Link1://https://www.instagram.com/",
+			"Name": "Instagram"
+		},
+		"Z86": {
+			"Icon": "https://i.imgur.com/P1jiJBF.png",
+			"Link": "Link1://https://m.youtube.com/",
+			"Name": "YouTube"
+		},
+		"Z87": {
+			"Icon": "https://i.imgur.com/K1Gab68.png",
+			"Link": "Link1://https://www.hotstar.com/in",
+			"Name": "Hotstar"
+		},
+		"Z88": {
+			"Icon": "https://i.imgur.com/Z8qyB5m.png",
+			"Link": "Link1://https://www.mxplayer.in/",
+			"Name": "MX Player"
+		},
+		"Z89": {
+			"Icon": "https://i.imgur.com/Vshb1rM.png",
+			"Link": "Link1://https://www.liveme.com/",
+			"Name": "Live.me"
+		},
+		"Z90": {
+			"Icon": "https://i.imgur.com/jfI96iH.png",
+			"Link": "Link1://https://bigo.tv/",
+			"Name": "Bigo Live"
+		},
+		"Z91": {
+			"Icon": "https://i.imgur.com/szaxHJH.png",
+			"Link": "Link1://https://www.ndtv.com/",
+			"Name": "NDTV"
+		},
+		"Z92": {
+			"Icon": "https://i.imgur.com/HDG1maj.png",
+			"Link": "Link1://https://mobile.twitter.com/",
+			"Name": "Twitter"
+		},
+		"Z93": {
+			"Icon": "https://i.imgur.com/CgzvCyQ.png",
+			"Link": "Link1://https://en.m.wikipedia.org/wiki/Main_Page",
+			"Name": "Wikipedia"
+		},
+		"Z94": {
+			"Icon": "https://i.imgur.com/CMmFX1D.png",
+			"Link": "Link1://https://www.flipkart.com/",
+			"Name": "Flipkart"
+		},
+		"Z95": {
+			"Icon": "https://i.imgur.com/LhI4IhM.png",
+			"Link": "Link1://https://www.pinterest.com/",
+			"Name": "Pinterest"
+		},
+		"Z96": {
+			"Icon": "https://i.imgur.com/d3tG2h5.png",
+			"Link": "Link1://https://www.quora.com/",
+			"Name": "Quora"
+		},
+		"Z97": {
+			"Icon": "https://i.imgur.com/frpWqUh.png",
+			"Link": "Link1://https://www.reddit.com/",
+			"Name": "Reddit"
+		},
+		"Z98": {
+			"Icon": "https://i.imgur.com/UjIKaOC.png",
+			"Link": "Link1://https://m.cricbuzz.com/",
+			"Name": "Cricbuzz"
+		},
+		"Z99": {
+			"Icon": "https://i.imgur.com/FKz0Ck9.png",
+			"Link": "Link1://https://in.linkedin.com/",
+			"Name": "LinkedIn"
+		}
+	},
+	"Tools": {
+		"Z95": {
+			"Icon": "https://i.imgur.com/HUimQRx.png",
+			"Link": "Link1://https://docs.google.com/",
+			"Name": "Docs"
+		},
+		"Z96": {
+			"Icon": "https://i.imgur.com/cMwyQlP.png",
+			"Link": "Link1://https://www.google.co.in/maps",
+			"Name": "Maps"
+		},
+		"Z97": {
+			"Icon": "https://i.imgur.com/7hvFFX8.png",
+			"Link": "Link1://https://translate.google.com/",
+			"Name": "Translate"
+		},
+		"Z98": {
+			"Icon": "https://i.imgur.com/cBH0J96.png",
+			"Link": "Link1://https://mail.google.com/mail/",
+			"Name": "Gmail"
+		},
+		"Z99": {
+			"Icon": "https://i.imgur.com/RPJXdbu.png",
+			"Link": "Link1://https://www.accuweather.com/",
+			"Name": "AccuWeather"
+		}
+	}
+}
